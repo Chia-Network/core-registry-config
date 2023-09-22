@@ -1,0 +1,19 @@
+{
+  "name": "core-registry-config",
+  "version": "1.0.0",
+  "description": "Configuration management for Core Registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["core", "registry", "config"],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "js-yaml": "^4.1.0",
+    "chia-root-resolver": "^1.0.0"
+  }
+}

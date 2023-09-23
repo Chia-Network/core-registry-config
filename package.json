@@ -1,6 +1,6 @@
 {
   "name": "@chia-carbon/core-registry-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Configuration management for Core Registry",
   "main": "index.js",
   "scripts": {
@@ -15,8 +15,12 @@
   "email": "hello@chia.net",
   "homepage": "https://www.chia.net",
   "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chia-Network/core-registry-config.git"
+  },
   "bugs":{
-    "url": "https://github.com/Chia-Network/core-registry-logger/issues"
+    "url": "https://github.com/Chia-Network/core-registry-config/issues"
   },
   "dependencies": {
     "chia-root-resolver": "^1.0.0",

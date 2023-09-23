@@ -1,4 +1,8 @@
-# 1.0.0 (2023-09-23)
+## [1.0.1](https://github.com/Chia-Network/core-registry-config/compare/1.0.0...1.0.1) (2023-09-23)
+
+
+
+# [1.0.0](https://github.com/Chia-Network/core-registry-config/compare/0dc4f4cebda1eb8bbdeb90667a80cc63eb46b253...1.0.0) (2023-09-23)
 
 
 ### Bug Fixes

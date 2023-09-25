@@ -19,10 +19,18 @@ class ConfigManager {
    * Create a new instance of ConfigManager
    * @param {object} defaultConfig - Default configuration object
    */
-  constructor(defaultConfig) {
+  constructor(namespace, defaultConfig) {
+    if(!namespace) {
+      throw new Error('namespace is required');
+    }
+
+    if(!defaultConfig) {
+      throw new Error('defaultConfig is required');
+    }
+
     this.defaultConfig = defaultConfig;
     this.chiaRoot = getChiaRoot();
-    this.persistanceFolderPath = `${this.chiaRoot}/core-registry`;
+    this.persistanceFolderPath = `${this.chiaRoot}/${namespace}`;
     this.configFilePath = path.resolve(
       `${this.persistanceFolderPath}/config.yaml`
     );

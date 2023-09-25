@@ -1,3 +1,12 @@
+## [1.0.2](https://github.com/Chia-Network/core-registry-config/compare/1.0.1...1.0.2) (2023-09-25)
+
+
+### Features
+
+* enforce constructor args ([13b4a95](https://github.com/Chia-Network/core-registry-config/commit/13b4a95c28a158958fee3e85923c48a3704c01ce))
+
+
+
 ## [1.0.1](https://github.com/Chia-Network/core-registry-config/compare/1.0.0...1.0.1) (2023-09-23)
 
 

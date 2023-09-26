@@ -1,3 +1,12 @@
+## [1.0.3](https://github.com/Chia-Network/core-registry-config/compare/1.0.2...1.0.3) (2023-09-26)
+
+
+### Bug Fixes
+
+* remove config log ([5c5b209](https://github.com/Chia-Network/core-registry-config/commit/5c5b20981bf55005cddc4d52c68314f89f4ba45e))
+
+
+
 ## [1.0.2](https://github.com/Chia-Network/core-registry-config/compare/1.0.1...1.0.2) (2023-09-25)
 
 

@@ -85,7 +85,6 @@ class ConfigManager {
 
       this.applyEnvOverrides(mergedConfig);
 
-      console.log("Loaded Config", mergedConfig);
       return mergedConfig;
     } catch (e) {
       console.log(`Config file not found at ${this.configFilePath}`, e);

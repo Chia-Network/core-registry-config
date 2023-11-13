@@ -1,7 +1,7 @@
-# node-template
-Template repo for NodeJS-based projects
+# Core Registry Config
+[npm package](https://www.npmjs.com/package/@chia-carbon/core-registry-config) used for configuring Core Registry applications. 
 
-example usage
+### Example usage
 
 ```javascript
 const defaultConfig = require("./defaultConfig.json");

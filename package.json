@@ -1,6 +1,7 @@
 {
   "name": "@chia-carbon/core-registry-config",
-  "version": "1.0.3",
+  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Configuration management for Core Registry",
   "main": "index.js",
   "scripts": {
